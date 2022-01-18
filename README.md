@@ -1,0 +1,2 @@
+# bus-ticket-booking-application
+The reservation system has three modules. First module helps the customer to enquire the availability of seats in a particular bus at particular date, the second module helps him to reserve a ticket and with the third module he can cancel a reserved ticket. The current bus booking system relies on buying tickets from the conductor for commuting to and from a location through public transportation. The task can be tedious if the number of commuters is large. Also,
